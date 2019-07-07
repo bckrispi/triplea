@@ -54,9 +54,22 @@
 - mapName: Napoleonic Empires
   mapCategory: BEST
   url: https://github.com/triplea-maps/napoleonic_empires/archive/master.zip
-  version: 2
+  version: 3
+  img: https://raw.githubusercontent.com/triplea-maps/napoleonic_empires/master/map/doc/images/mapScreenshot.png
   description: |
+    <br>By LSSAH
+    <br>Updated by Veqryn and Redrum
+    <br>
     <br>Preindustrial Napoleonic era European conquest
+    <br>
+    <br>The empires of Europe are at war.
+    <br>The upstart French Republic has followed in the footsteps of their American compatriots across the sea and cast off the trappings of monarchy.
+    <br>Can this new light in Europe survive against a host of squabbling adversaries?
+    <br>Or will it fall victim to its own aspirations for an empire...
+    <br>Will the Russians be forced to sing La Marseillaise?
+    <br>Will the English see the Guillotine raised in Piccadilly?
+    <br>Or will the rule of the monarchs be ensured by the restoration of Louis XVIII to the Parisian throne?
+    <br>
 - mapName: New World Order
   url: https://github.com/triplea-maps/new_world_order/archive/master.zip
   mapCategory: BEST
@@ -72,7 +85,7 @@
 - mapName: Total World War
   mapCategory: BEST
   url: https://github.com/triplea-maps/total_world_war/archive/master.zip
-  version: 13
+  version: 14
   img: https://raw.githubusercontent.com/triplea-maps/total_world_war/master/description/TripleA_total_world_war_mini.png
   description: |
     <br><em><b style="font-size: x-large;">Created by Rolf Larsson and Hepster</b></em>
@@ -101,7 +114,7 @@
     <br>
     <b>This manual is also accessible within the game using the help tab.</b>
     <br>
-    <br><b>Triplea 1.9.0.0.13066 is required to play T.W.W. 2.8.0.5 & 3.0.0.0</b>
+    <br><b>Triplea 1.9.0.0.13066 is required to play</b>
     <br>
     <p style="font-size: x-large;"><b><em>Features</em></b></p>
     <br>
@@ -110,7 +123,7 @@
       <li><b>A real technology tree and research system</b></li>
       <li><b>A 12-sided dice based game system</b></li>
       <li><b>New units like Heavy Tanks unlocked by technologies</b></li>
-      <li><b>New unit abilities that offer strategic/tactical avantages when facing certain terrains or enemy units</b></li>
+      <li><b>New unit abilities that offer strategic/tactical advantages when facing certain terrains or enemy units</b></li>
       <li><b>Lend & Lease possiblities for the Allied nations</b></li>
       <li><b>Beautiful in-game pop-up newspaper images</b></li>
       <li><b>Major & Minor nations: limiting regional capabilities</b></li>
@@ -147,11 +160,18 @@
 - mapName: 270BC
   mapCategory: BEST
   url: https://github.com/triplea-maps/270bc/archive/master.zip
-  version: 1
-  img: https://raw.githubusercontent.com/triplea-maps/270bc/master/description/TripleA_270BC_mini.png
+  version: 2
+  img: https://raw.githubusercontent.com/triplea-maps/270bc/master/map/doc/images/mapScreenshot.png
   description: |
-    <br> by Dr.Che
-    <br>270BC is a beautifully made fun map. With its slow and few units, and no air, but a very dynamic income situation, as well as nicely interlinked theaters of war, it plays refreshingly different.
+    <br>By Doctor Che
+    <br>Updated by Redrum
+    <br>
+    <br>Ancient Era Map of the Mediterranean
+    <br>
+    <br>Make yourself an empire around the Mediterranean Sea (the known world),
+    <br>in the era when Hellenes, Romans, and Phoenicians ruled. Choose from a arsenal of
+    <br>legionaires, hoplites, onagers, cataphracts, triremes, war elephants, and many more.
+    <br>Territory names are based on cities at the time give or take 500 years.
     <br>
 - mapName: Civil War
   mapCategory: BEST
@@ -229,7 +249,7 @@
 - mapName: Domination 1914 No Mans Land
   mapCategory: BEST
   url: https://github.com/triplea-maps/domination_1914_no_mans_land/archive/master.zip
-  version: 4
+  version: 7
   img: https://raw.githubusercontent.com/triplea-maps/domination_1914_no_mans_land/master/map/doc/images/mapScreenshot.png
   description: |
     <br>By Imbaked
@@ -467,7 +487,7 @@
 - mapName: Age of Tribes
   mapCategory: GOOD
   url: https://github.com/triplea-maps/age_of_tribes/archive/master.zip
-  version: 5
+  version: 6
   img: https://raw.githubusercontent.com/triplea-maps/age_of_tribes/master/description/MapThumbnail.png
   description: |
     <br><b><em>by Frostion</em></b>
@@ -1966,7 +1986,7 @@
 - mapName: Global 40 House Rules
   mapCategory: EXPERIMENTAL
   url: https://github.com/triplea-maps/global_40_house_rules/archive/master.zip
-  version: 11
+  version: 12
   img: https://raw.githubusercontent.com/triplea-maps/global_40_house_rules/master/description/TripleA_ww2_global_1940_mini.png
   description:
     <br>
